@@ -5,6 +5,6 @@ a repo to share what I am reading, what I am studing, ...
 ## Reading
 
 
-> Go Design PatternsFeb 24, 2017
+> Go Design Patterns
 > 
 > by Mario Castro Contreras
