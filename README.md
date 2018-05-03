@@ -2,6 +2,6 @@
 
 a repo to share what I am reading, what I am studing, ...
 
-## Reading
+## Books
 
 - [ ] :notebook: Go Design Patterns by Mario Castro Contreras
