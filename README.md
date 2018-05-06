@@ -5,7 +5,7 @@ a repo to share what I am reading, what I am studing, ...
 ## Legend
 
  - :notebook: book
- - :camera: video
+ - :cinema: video
  - :newspaper: article
 
 ## Resources
@@ -16,7 +16,7 @@ a repo to share what I am reading, what I am studing, ...
      by *Mario Castro Contreras*
      
  - Domain Driven Design
-   - :camera: **Practical Domain Driven Design**\
+   - :cinema: **Practical Domain Driven Design**\
    by *Alessandro 'Bauno' Bonometti*\
    https://www.youtube.com/watch?time_continue=38&v=oyK8qgsIYQY
 
