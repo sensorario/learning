@@ -19,3 +19,4 @@ a repo to share what I am reading, what I am studing, ...
 
  - Agile
    - [x] :newspaper: **How to run agile retrospective** https://it.atlassian.com/team-playbook/plays/retrospective
+   - [ ] :newspaper: **Costs, challenges, and common-pitfalls of pair-programming** https://www.jamasoftware.com/blog/costs-challenges-and-common-pitfalls-of-pair-programming/
