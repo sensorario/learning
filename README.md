@@ -13,13 +13,13 @@ a repo to share what I am reading, what I am studing, ...
  - Programming languages
    - Go
      - :notebook: **Go Design Patterns**\
-       by *Mario Castro Contreras*
+     by *Mario Castro Contreras*
      
  - Domain Driven Design
    - :camera: **Practical Domain Driven Design**\
-     by *Alessandro 'Bauno' Bonometti*\
-     https://www.youtube.com/watch?time_continue=38&v=oyK8qgsIYQY
+   by *Alessandro 'Bauno' Bonometti*\
+   https://www.youtube.com/watch?time_continue=38&v=oyK8qgsIYQY
 
  - Agile
    - :newspaper: **How to run agile retrospective**\
-     https://it.atlassian.com/team-playbook/plays/retrospective
+   https://it.atlassian.com/team-playbook/plays/retrospective
