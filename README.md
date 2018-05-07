@@ -31,5 +31,5 @@ a repo to share what I am reading, what I am studing, ...
    
  - Refactoring
    - :cinema: **Testing and Refactoring Legacy Code**\
-   by *Sandro Mancuso*
+   by *Sandro Mancuso*\
    https://www.youtube.com/watch?v=_NnElPO5BU0
