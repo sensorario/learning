@@ -28,3 +28,8 @@ a repo to share what I am reading, what I am studing, ...
  - Agile
    - :newspaper: **How to run agile retrospective**\
    https://it.atlassian.com/team-playbook/plays/retrospective
+   
+ - Refactoring
+   - :cinema: **Testing and Refactoring Legacy Code**\
+   by *Sandro Mancuso*
+   https://www.youtube.com/watch?v=_NnElPO5BU0
