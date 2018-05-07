@@ -17,11 +17,11 @@ a repo to share what I am reading, what I am studing, ...
      
  - Domain Driven Design
  
-   - :cinema: **Practical Domain Driven Design**\
+   - :cinema: :it: **Practical Domain Driven Design**\
    by *Alessandro 'Bauno' Bonometti*\
    https://www.youtube.com/watch?time_continue=38&v=oyK8qgsIYQY
    
-   - :cinema: **Ricette di Domain Driven Design**\
+   - :cinema: :it: **Ricette di Domain Driven Design**\
    by *Alberto Brandolini*\
    https://www.youtube.com/watch?v=HKID1hpZSVg
 
