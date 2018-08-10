@@ -11,6 +11,12 @@ a repo to share what I am reading, what I am studing, ...
 ## Resources
 
  - Programming languages
+
+   - Node.js
+     - :cinema: :it: **Matteo Collina - Sviluppare in Node.js**\
+     by *Matteo Collina*\
+     https://www.youtube.com/watch?v=rHYUwWGAbbo
+
    - Go
      - :notebook: **Go Design Patterns**\
      by *Mario Castro Contreras*
