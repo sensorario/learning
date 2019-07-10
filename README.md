@@ -21,6 +21,12 @@ a repo to share what I am reading, what I am studing, ...
      - :notebook: **Go Design Patterns**\
      by *Mario Castro Contreras*
      
+ - Design Patterns
+   
+   - :cinema: :it: **Repository Pattern**
+   by *Damiano Petrungaro*
+   https://www.youtube.com/watch?v=NgHsl9dpIao
+   
  - Domain Driven Design
  
    - :cinema: :it: **Practical Domain Driven Design**\
