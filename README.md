@@ -23,8 +23,8 @@ a repo to share what I am reading, what I am studing, ...
      
  - Design Patterns
    
-   - :cinema: :it: **Repository Pattern**
-   by *Damiano Petrungaro*
+   - :cinema: :it: **Repository Pattern**\
+   by *Damiano Petrungaro*\
    https://www.youtube.com/watch?v=NgHsl9dpIao
    
  - Domain Driven Design
